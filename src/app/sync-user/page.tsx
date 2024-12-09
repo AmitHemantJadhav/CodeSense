@@ -15,9 +15,9 @@ const SyncUser = async () => {
         return notFound();
     }
 
-    await db.user.upsert{
-      //continue here
-    }
+    // await db.user.upsert{
+    //   //continue here
+    // }
 
 
 
